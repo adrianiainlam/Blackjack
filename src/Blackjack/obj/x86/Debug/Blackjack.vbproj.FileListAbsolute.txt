@@ -1,0 +1,26 @@
+C:\Users\00alam\AppData\Local\Temporary Projects\Blackjack\bin\Debug\Blackjack.exe
+C:\Users\00alam\AppData\Local\Temporary Projects\Blackjack\bin\Debug\Blackjack.pdb
+C:\Users\00alam\AppData\Local\Temporary Projects\Blackjack\bin\Debug\Blackjack.xml
+C:\Users\00alam\AppData\Local\Temporary Projects\Blackjack\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\00alam\AppData\Local\Temporary Projects\Blackjack\obj\x86\Debug\Blackjack.Blackjack.resources
+C:\Users\00alam\AppData\Local\Temporary Projects\Blackjack\obj\x86\Debug\Blackjack.Resources.resources
+C:\Users\00alam\AppData\Local\Temporary Projects\Blackjack\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\00alam\AppData\Local\Temporary Projects\Blackjack\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\00alam\AppData\Local\Temporary Projects\Blackjack\obj\x86\Debug\Blackjack.exe
+C:\Users\00alam\AppData\Local\Temporary Projects\Blackjack\obj\x86\Debug\Blackjack.xml
+C:\Users\00alam\AppData\Local\Temporary Projects\Blackjack\obj\x86\Debug\Blackjack.pdb
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\bin\Debug\Blackjack.exe
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\bin\Debug\Blackjack.pdb
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\bin\Debug\Blackjack.xml
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\obj\x86\Debug\Blackjack.Blackjack.resources
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\obj\x86\Debug\Blackjack.Resources.resources
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\obj\x86\Debug\Blackjack.Rules.resources
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\obj\x86\Debug\Blackjack.exe
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\obj\x86\Debug\Blackjack.xml
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\obj\x86\Debug\Blackjack.pdb
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\obj\x86\Debug\ResolveAssemblyReference.cache
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\obj\x86\Debug\GenerateResource.read.1.tlog
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\obj\x86\Debug\GenerateResource.write.1.tlog
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\bin\Debug\Blackjack.exe.config
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\obj\x86\Debug\ResGen.read.1.tlog
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\obj\x86\Debug\ResGen.write.1.tlog
