@@ -493,6 +493,7 @@ Public Class Blackjack
                 SecondBet = InputBox("Please enter a correct numerical positive integral value:")
             End If
         End While
+        SecondBet = CStr(Int(Val(SecondBet)))
         TxtTotal.Text = CStr(Val(TxtTotal.Text) - Val(SecondBet))
 
 

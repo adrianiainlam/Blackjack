@@ -1,0 +1,1 @@
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\bin\x64\Debug\Blackjack.exe.config

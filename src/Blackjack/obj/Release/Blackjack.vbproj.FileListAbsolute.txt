@@ -1,0 +1,13 @@
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\bin\Release\Blackjack.exe.config
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\bin\Release\Blackjack.exe
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\bin\Release\Blackjack.pdb
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\bin\Release\Blackjack.xml
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\obj\Release\Blackjack.Blackjack.resources
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\obj\Release\Blackjack.Resources.resources
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\obj\Release\Blackjack.Rules.resources
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\obj\Release\Blackjack.exe
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\obj\Release\Blackjack.xml
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\obj\Release\Blackjack.pdb
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\obj\Release\ResolveAssemblyReference.cache
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\obj\Release\ResGen.read.1.tlog
+\\student\users$\00alam\Visual Studio 2010\Projects\Blackjack\Blackjack\obj\Release\ResGen.write.1.tlog
